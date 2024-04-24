@@ -35,6 +35,21 @@ python train_facebook.py
 
 All results can be viewed in the result directory.
 
+### Citation
+
+If you use code or datasets in this repository for your research, please cite our paper.
+
+@ARTICLE{10339895,
+  author={Yang, Yue and Su, Xiaorui and Zhao, Bowei and Li, GuoDong and Hu, Pengwei and Zhang, Jun and Hu, Lun},
+  journal={IEEE Transactions on Fuzzy Systems}, 
+  title={Fuzzy-Based Deep Attributed Graph Clustering}, 
+  year={2024},
+  volume={32},
+  number={4},
+  pages={1951-1964},
+  keywords={Clustering algorithms;Task analysis;Representation learning;Training;Optimization;Convolution;Computational modeling;Attributed graph (AG) clustering;fuzzy clustering;graph convolution;graph representation learning;node embeddings},
+  doi={10.1109/TFUZZ.2023.3338565}}
+
 
 ```python
 
