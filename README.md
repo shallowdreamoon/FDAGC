@@ -35,6 +35,11 @@ python train_facebook.py
 
 All results can be viewed in the result directory.
 
+### All datasets acquired.
+
+Due to upload limitations, all datasets are given in:
+Url：https://pan.baidu.com/s/1dcsatrHDzAhcUN9kwOfB_w?pwd=xiv3 
+
 ### Citation
 
 If you use code or datasets in this repository for your research, please cite our paper.
